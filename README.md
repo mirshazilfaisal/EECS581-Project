@@ -6,4 +6,4 @@ synesthetes do so that perspective regarding this might change and it might star
 accepted by others. 
 
 # Team 18
-# Members: Mir, Ahsan, Bikash, Huzaifa, Rudro
+Members: Mir, Ahsan, Bikash, Huzaifa, Rudro
